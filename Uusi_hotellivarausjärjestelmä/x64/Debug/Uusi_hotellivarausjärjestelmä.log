@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\carit\OneDrive\Tiedostot\Visual Studio tuotokset\Uusi_hotellivarausjärjestelmä\Source.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\carit\OneDrive\Tiedostot\Visual Studio tuotokset\Uusi_hotellivarausjärjestelmä\Source.cpp(276,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\carit\OneDrive\Tiedostot\Visual Studio tuotokset\Uusi_hotellivarausjärjestelmä\Source.cpp(390,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\carit\OneDrive\Tiedostot\Visual Studio tuotokset\Uusi_hotellivarausjärjestelmä\Source.cpp(515,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\carit\OneDrive\Tiedostot\Visual Studio tuotokset\Uusi_hotellivarausjärjestelmä\Source.cpp(561,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Uusi_hotellivarausjärjestelmä.vcxproj -> C:\Users\carit\OneDrive\Tiedostot\Visual Studio tuotokset\Uusi_hotellivarausjärjestelmä\x64\Debug\Uusi_hotellivarausjärjestelmä.exe
